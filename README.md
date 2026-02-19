@@ -31,10 +31,11 @@ Create and activate a virtual environment (optional but recommended):
 python -m venv venv
 .\venv\Scripts\activate   # Windows
 # source venv/bin/activate  # macOS/Linux
-
+```
 
 ## How to Run
 
 1. Open the Jupyter Notebook:
 ```bash
 jupyter notebook analysis.ipynb
+```
