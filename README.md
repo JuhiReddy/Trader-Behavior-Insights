@@ -39,3 +39,10 @@ python -m venv venv
 ```bash
 jupyter notebook analysis.ipynb
 ```
+## Output Highlights
+
+### Average Daily PnL by Market Sentiment
+![Sentiment vs PnL](outputs/sentiment_vs_pnl.png)
+
+### Trade Activity by Market Sentiment
+![Sentiment vs Trade Count](outputs/sentiment_vs_trade_count.png)
